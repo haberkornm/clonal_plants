@@ -1,0 +1,457 @@
+Family,ScientificName,ScientificNameAuthorship,Notes,TaxonId
+ACANTHACEAE,"Anisacanthus thurberi","(Torr.) A. Gray",,2972
+ACANTHACEAE,"Carlowrightia arizonica","A. Gray",,1215
+ACANTHACEAE,"Justicia longii",Hilsenb.,,10963
+ACANTHACEAE,"Ruellia ciliatiflora",Hook.,,99347
+AIZOACEAE,"Trianthema portulacastrum",L.,,3476
+AMARANTHACEAE,"Amaranthus fimbriatus","(Torr.) Benth. ex S. Wats.",,100
+AMARANTHACEAE,"Amaranthus palmeri","S. Watson",,104
+AMARANTHACEAE,"Amaranthus x tucsonensis",J.Henrickson,,26541
+AMARANTHACEAE,"Atriplex canescens","(Pursh) Nutt.",,127
+AMARANTHACEAE,"Chenopodium fremontii","S. Watson",,172
+AMARANTHACEAE,"Chenopodium murale",L.,,178
+AMARANTHACEAE,"Chenopodium sonorense","Benet-Pierce & M. G. Simpson",,308562
+AMARANTHACEAE,"Monolepis nuttalliana","(Schult.) Greene",,89
+AMARANTHACEAE,"Salsola kali",L.,,22
+AMARANTHACEAE,"Salsola tragus",L.,,3553
+AMARANTHACEAE,"Tidestromia lanuginosa","(Nutt.) Standl.",,1
+AMARYLLIDACEAE,"Allium macropetalum",Rydb.,,3405
+ANACARDIACEAE,"Rhus lancea",L.f.,,72
+APIACEAE,"Bowlesia incana","Ruiz & Pav.",,2387
+APIACEAE,"Daucus pusillus",Michx.,,2415
+APIACEAE,"Spermolepis echinata","(Nutt. ex DC.) A. Heller",,2203
+APIACEAE,"Spermolepis lateriflora","G.L. Nesom",,308044
+APIACEAE,"Yabea microcarpa","(Hook. & Arn.) K.-Pol.",,2236
+APOCYNACEAE,"Asclepias nyctaginifolia","A. Gray",,3767
+APOCYNACEAE,"Cynanchum arizonicum","(A. Gray) Shinners",,974
+APOCYNACEAE,"Funastrum hartwegii","(Vail) Schltr.",,129532
+APOCYNACEAE,"Haplophyton cimicidum","auct. non A. DC.",,9660
+APOCYNACEAE,"Haplophyton cimicidum var. crooksii","L. Benson",,9933
+APOCYNACEAE,"Matelea parvifolia","(Torr.) Woods.",,3794
+APOCYNACEAE,"Metastelma arizonicum","A. Gray",,10494
+APOCYNACEAE,"Sarcostemma cynanchoides",Decne.,,3829
+ARISTOLOCHIACEAE,"Aristolochia watsonii","Woot. & Standl.",,786
+ASPARAGACEAE,"Agave americana",L.,,3055
+ASPARAGACEAE,"Dichelostemma capitatum","(Benth.) Alph. Wood",,2884
+ASPARAGACEAE,"Dichelostemma capitatum subsp. pauciflorum","(Torr.) G. Keator",,11364
+ASPARAGACEAE,"Dichelostemma pulchellum","(Salisb.) Heller",,15034
+ASPARAGACEAE,"Yucca elata","(Engelm.) Engelm.",,2620
+ASTERACEAE,"Acourtia wrightii","(A. Gray) Reveal & R. M. King",,2735
+ASTERACEAE,"Ambrosia ambrosioides","(Cav.) W.W. Payne",,2749
+ASTERACEAE,"Ambrosia confertiflora",DC.,,18
+ASTERACEAE,"Ambrosia deltoidea","(Torr.) W.W. Payne",,2762
+ASTERACEAE,"Ambrosia dumosa","(A. Gray) W.W. Payne",,4
+ASTERACEAE,"Baccharis salicifolia","(Ruiz & Pav.) Pers.",,2528
+ASTERACEAE,"Baccharis sarothroides","A. Gray",,1364
+ASTERACEAE,"Baileya multiradiata","Harv. & A. Gray",,2816
+ASTERACEAE,"Baileya multiradiata var. multiradiata",,,134630
+ASTERACEAE,"Bebbia juncea","(Benth.) Greene",,2821
+ASTERACEAE,"Brickellia californica","(Torr. & A. Gray) A. Gray",,2843
+ASTERACEAE,"Brickellia coulteri","A. Gray",,2826
+ASTERACEAE,"Calycoseris wrightii","A. Gray",,2857
+ASTERACEAE,"Chaenactis stevioides","Hook. & Arn.",,2872
+ASTERACEAE,"Cirsium neomexicanum","A. Gray",,42
+ASTERACEAE,"Conyza bonariensis","(L.) Cronquist",,3602
+ASTERACEAE,"Conyza canadensis","(L.) Cronquist",,3603
+ASTERACEAE,"Diaperia verna","(Raf.) Morefield",,11034
+ASTERACEAE,"Dimorphotheca sinuata",Dc.,,3629
+ASTERACEAE,"Encelia farinosa","A. Gray ex Torr.",,3673
+ASTERACEAE,"Ericameria laricifolia","(A. Gray) Shinners",,3665
+ASTERACEAE,"Erigeron divergens","Torr. & A. Gray",,1306
+ASTERACEAE,"Erigeron lobatus","A. Nels.",,1313
+ASTERACEAE,"Erigeron tracyi",Greene,,32921
+ASTERACEAE,"Eriophyllum lanosum","(A. Gray) A. Gray",,6817
+ASTERACEAE,"Filago arizonica","A. Gray",,3686
+ASTERACEAE,"Filago californica",Nutt.,,3687
+ASTERACEAE,"Gaillardia arizonica","A. Gray",,3697
+ASTERACEAE,"Gutierrezia arizonica","(A. Gray) M.A. Lane",,3743
+ASTERACEAE,"Gutierrezia microcephala","(DC.) A. Gray",,3745
+ASTERACEAE,"Hedosyne ambrosiifolia","(A. Gray) Strother",,18284
+ASTERACEAE,"Heterotheca subaxillaris","(Lam.) Britton & Rusby",,3825
+ASTERACEAE,"Hymenothrix wislizeni","A. Gray",,3988
+ASTERACEAE,"Isocoma tenuisecta",Greene,,4002
+ASTERACEAE,"Laennecia coulteri","(A. Gray) G.L. Nesom",,4027
+ASTERACEAE,"Logfia arizonica","(A.Gray) J.Holub",,18890
+ASTERACEAE,"Logfia californica","(Nutt.) Holub",,18392
+ASTERACEAE,"Logfia filaginoides","(Hook. & Arn.) Morefield",,130822
+ASTERACEAE,"Machaeranthera tagetina",Greene,,2363
+ASTERACEAE,"Malacothrix clevelandii","A. Gray",,2379
+ASTERACEAE,"Malacothrix glabrata","(A. Gray ex D.C. Eaton) A. Gray",,2373
+ASTERACEAE,"Malacothrix sonorae","W.S. Davis & Raven",,4172
+ASTERACEAE,"Matricaria discoidea",DC.,,1138
+ASTERACEAE,"Monoptilon bellioides","(A. Gray) Hall",,2312
+ASTERACEAE,"Parthenium incanum",Kunth,,2320
+ASTERACEAE,"Pectis cylindrica","(Fern.) Rydb.",,2324
+ASTERACEAE,"Pectis papposa","Harv. & A. Gray",,2329
+ASTERACEAE,"Pectis papposa var. papposa","Harv. & A. Gray",,13692
+ASTERACEAE,"Picradeniopsis absinthifolia","(Benth.) B.G. Baldwin",,388235
+ASTERACEAE,"Porophyllum gracile",Benth.,,2284
+ASTERACEAE,"Psilostrophe cooperi","(A. Gray) Greene",,2221
+ASTERACEAE,"Rafinesquia neomexicana","A. Gray",,2233
+ASTERACEAE,"Senecio flaccidus",Less.,,669
+ASTERACEAE,"Senecio flaccidus var. douglasii","(DC.) B.L.Turner & T.M.Barkley",,44308
+ASTERACEAE,"Senecio flaccidus var. monoensis","(Greene) B.L. Turner & T.M. Barkl.",,14112
+ASTERACEAE,"Senecio lemmonii","A. Gray",,306
+ASTERACEAE,"Sonchus oleraceus",L.,,2173
+ASTERACEAE,"Stephanomeria pauciflora","(Torr.) A. Nels.",,2176
+ASTERACEAE,"Stylocline gnaphaloides",Nutt.,,11017
+ASTERACEAE,"Stylocline micropoides","A. Gray",,2186
+ASTERACEAE,"Stylocline sonorensis",Wiggins,,448
+ASTERACEAE,"Symphyotrichum subulatum","(Michx.) G. L. Nesom",,32076
+ASTERACEAE,"Thymophylla acerosa","(DC.) Strother",,373
+ASTERACEAE,"Thymophylla pentachaeta","(DC.) Small",,375
+ASTERACEAE,"Trixis californica",Kellogg,,2106
+ASTERACEAE,"Uropappus lindleyi","(DC.) Nutt.",,461
+ASTERACEAE,"Verbesina encelioides","(Cav.) Benth. & Hook. f. ex A. Gray",,2002
+ASTERACEAE,"Xanthisma spinulosum","(Pursh) D.R. Morgan & R.L. Hartman",,16301
+ASTERACEAE,"Zinnia acerosa","(DC.) A. Gray",,1960
+BIGNONIACEAE,"Chilopsis linearis","(Cav.) Sweet",,2566
+BORAGINACEAE,"Amsinckia intermedia","Fisch. & C.A. Mey.",,14518
+BORAGINACEAE,"Cryptantha angustifolia","(Torr.) Greene",,1889
+BORAGINACEAE,"Cryptantha barbigera","(A. Gray) Greene",,1891
+BORAGINACEAE,"Cryptantha micrantha","(Torr.) I.M. Johnston",,1843
+BORAGINACEAE,"Cryptantha muricata","(Hook. & Arn.) A. Nelson & J. F. Macbr.",,1837
+BORAGINACEAE,"Cryptantha nevadensis","A. Nels. & Kennedy",,1838
+BORAGINACEAE,"Cryptantha pterocarya","(Torr.) Greene",,1844
+BORAGINACEAE,"Cryptantha pterocarya var. cycloptera","(Greene) J.F. Macbr.",,12672
+BORAGINACEAE,"Eucrypta chrysanthemifolia","(Benth.) Greene",,2114
+BORAGINACEAE,"Eucrypta micrantha","(Torr.) Heller",,2115
+BORAGINACEAE,"Harpagonella arizonica","(I.M. Johnst.) Guilliams & B.G. Baldwin",,302149
+BORAGINACEAE,"Harpagonella palmeri","A. Gray",,1779
+BORAGINACEAE,"Lappula coronata",Greene,,154470
+BORAGINACEAE,"Lappula occidentalis","(S. Wats.) Greene",,4032
+BORAGINACEAE,"Lappula occidentalis var. cupulata","(A. Gray) Higgins",,13257
+BORAGINACEAE,"Nama hispida",A.Gray,,154960
+BORAGINACEAE,"Pectocarya heterocarpa","(I.M. Johnston) I.M. Johnston",,1789
+BORAGINACEAE,"Pectocarya platycarpa","(Munz & I. M. Johnst.) Munz & I. M. Johnst.",,1790
+BORAGINACEAE,"Pectocarya recurvata","I.M. Johnston",,1791
+BORAGINACEAE,"Phacelia affinis","A. Gray",,2039
+BORAGINACEAE,"Phacelia caerulea",Greene,,578
+BORAGINACEAE,"Phacelia campanularia","A. Gray",,2048
+BORAGINACEAE,"Phacelia crenulata","Torr. ex S. Watson",,1949
+BORAGINACEAE,"Phacelia crenulata var. ambigua","(M.E. Jones) J.F. Macbr.",,13712
+BORAGINACEAE,"Phacelia distans",Benth.,,1945
+BORAGINACEAE,"Plagiobothrys arizonicus","(A. Gray) Greene ex A. Gray",,1793
+BORAGINACEAE,"Tiquilia canescens","(A. DC.) A. T. Richardson",,310
+BRASSICACEAE,"Arabis perennans","S. Watson",,2162
+BRASSICACEAE,"Boechera perennans","(S. Watson) W. A. Weber",,9264
+BRASSICACEAE,"Brassica tournefortii",Gouan,,1262
+BRASSICACEAE,"Caulanthus lasiophyllus","(Hook. & Arn.) Payson",,1268
+BRASSICACEAE,"Descurainia pinnata","(Walter) Britton",,2075
+BRASSICACEAE,"Descurainia pinnata subsp. halictorum","(Cockerell) Detling",,11357
+BRASSICACEAE,"Dryopetalon runcinatum","A. Gray",,1228
+BRASSICACEAE,"Lepidium lasiocarpum",Nutt.,,2006
+BRASSICACEAE,"Lepidium lasiocarpum subsp. lasiocarpum","Nutt. ex Torr. & A. Gray",,163207
+BRASSICACEAE,"Lepidium lasiocarpum var. lasiocarpum","Nutt. ex Torr. & A. Gray",,13287
+BRASSICACEAE,"Lepidium oblongum",Small,,2011
+BRASSICACEAE,"Matthiola bicornis","(Sibth. & Sm.) DC.",,1198
+BRASSICACEAE,"Matthiola parviflora","(Schousb.) W.T. Aiton",,131161
+BRASSICACEAE,"Physaria gordonii","(A. Gray) O'Kane & Al-Shehbaz",,79
+BRASSICACEAE,"Sisymbrium irio",L.,,1152
+BRASSICACEAE,"Sisymbrium orientale",L.,,1154
+BRASSICACEAE,"Streptanthus carinatus","C. Wright ex A. Gray",,1162
+BRASSICACEAE,"Streptanthus carinatus subsp. arizonicus","(S. Watson) Kruckeb., Rodman & Worth.",,11884
+BRASSICACEAE,"Thysanocarpus curvipes",Hook.,,1114
+BRASSICACEAE,"Tomostima cuneifolia","Al-Shehbaz, M. Koch & Jordon-Thaden",,310307
+CACTACEAE,"Carnegiea gigantea","(Engelm.) Britton & Rose",,123
+CACTACEAE,"Cylindropuntia leptocaulis","(DC.) Knuth",,61
+CACTACEAE,"Cylindropuntia leptocaulis x spinosior","(Engelm.) Knuth",,33618
+CACTACEAE,"Cylindropuntia spinosior","(Engelm.) Knuth",,63
+CACTACEAE,"Cylindropuntia versicolor","(Engelm. Ex J. M. Coult.) Knuth",,86
+CACTACEAE,"Cylindropuntia x tetracantha","(Toumey) Knuth",,68
+CACTACEAE,"Echinocereus fasciculatus","(Engelm. ex B.D. Jackson) L. Benson",,15058
+CACTACEAE,"Echinocereus fendleri","(Engelm.) Sencke ex J.N. Haage",,3419
+CACTACEAE,"Echinocereus fendleri var. fasciculatus","(Engelm. ex B.D. Jackson) N.P. Taylor",,12785
+CACTACEAE,"Opuntia engelmannii",Salm-Dyck,,3722
+CACTACEAE,"Opuntia engelmannii var. engelmannii","Salm-Dyck ex Engelm.",,13565
+CACTACEAE,"Opuntia engelmannii var. linguiformis","(Griffiths) Weninger",,19549
+CACTACEAE,"Opuntia fulgida",Engelm.,,10087
+CACTACEAE,"Opuntia fulgida var. fulgida",,,13576
+CACTACEAE,"Opuntia kleiniae",Dc.,,3372
+CACTACEAE,"Opuntia phaeacantha",Engelm.,,3384
+CACTACEAE,"Opuntia santa-rita","(Griffiths & Hare) Rose",,3718
+CACTACEAE,"Peniocereus greggii","(Engelm.) Britt. & Rose",,1678
+CANNABACEAE,"Celtis pallida",Torr.,,3163
+CARYOPHYLLACEAE,"Herniaria hirsuta",L.,,3146
+CARYOPHYLLACEAE,"Loeflingia squarrosa",Nutt.,,324
+CARYOPHYLLACEAE,"Silene antirrhina",L.,,522
+CLEOMACEAE,"Polanisia dodecandra","(L.) DC.",,2225
+CLEOMACEAE,"Polanisia dodecandra subsp. trachysperma","(Torr. & A. Gray) H. H. Iltis",,11752
+CONVOLVULACEAE,"Cuscuta umbellata",Kunth,,3932
+CONVOLVULACEAE,"Cuscuta umbellata var. umbellata",,,31443
+CONVOLVULACEAE,"Ipomoea barbatisepala","A. Gray",,3933
+CRASSULACEAE,"Crassula connata","(Ruiz & Pav.) Berger",,1037
+CUCURBITACEAE,"Cucurbita digitata","A. Gray",,2361
+CUCURBITACEAE,"Ibervillea tenuisecta","(A. Gray) Small",,2371
+CUCURBITACEAE,"Tumamoca macdougalii",Rose,,2304
+CYPERACEAE,"Bolboschoenus maritimus","(L.) Palla",,7250
+CYPERACEAE,"Bolboschoenus maritimus subsp. paludosus","(A. Nelson) T. Koyama",,6394
+CYPERACEAE,"Cyperus involucratus",Rottb.,,935
+CYPERACEAE,"Schoenoplectus maritimus","(L.) Lye",,2608
+CYPERACEAE,"Schoenoplectus pungens","(Vahl) Palla",,1302
+EPHEDRACEAE,"Ephedra trifurca","Torr. ex S. Watson",,4096
+EUPHORBIACEAE,"Argythamnia neomexicana",Müll.Arg.,,1470
+EUPHORBIACEAE,"Argythamnia serrata","(Torr.) Muell.-Arg.",,1471
+EUPHORBIACEAE,"Chamaesyce abramsiana","(L.C. Wheeler) Koutnik",,1190
+EUPHORBIACEAE,"Chamaesyce arizonica","(Engelm.) Arthur",,1117
+EUPHORBIACEAE,"Chamaesyce capitellata","(Engelm.) Millsp.",,1118
+EUPHORBIACEAE,"Chamaesyce florida","(Engelm.) Millsp.",,1119
+EUPHORBIACEAE,"Chamaesyce gracillima","(S. Wats.) Millsp.",,1121
+EUPHORBIACEAE,"Chamaesyce hyssopifolia","(L.) Small",,3950
+EUPHORBIACEAE,"Chamaesyce melanadenia","(Torr.) Millsp.",,1130
+EUPHORBIACEAE,"Chamaesyce micromera","(Boiss. ex Engelm.) Woot. & Standl.",,1131
+EUPHORBIACEAE,"Chamaesyce pediculifera","(Engelm.) Rose & Standl.",,1126
+EUPHORBIACEAE,"Chamaesyce setiloba","(Engelm. ex Torr.) Millsp. ex Parish",,1139
+EUPHORBIACEAE,"Ditaxis lanceolata","(Benth.) Pax & K. Hoffmann",,5657
+EUPHORBIACEAE,"Euphorbia capitellata",Engelm.,,9989
+EUPHORBIACEAE,"Euphorbia heterophylla",L.,,3317
+EUPHORBIACEAE,"Euphorbia pediculifera",Engelm.,,10037
+EUPHORBIACEAE,"Tragia nepetifolia",Cav.,,323
+FABACEAE,"Acacia angustissima","(Mill.) Kuntze",,1571
+FABACEAE,"Acacia angustissima var. filicioides","(Cav.) Kuntze",,126130
+FABACEAE,"Acacia constricta",Benth.,,1573
+FABACEAE,"Acacia greggii","A. Gray",,1579
+FABACEAE,"Acaciella angustissima","(Mill.) Britton & Rose",,126162
+FABACEAE,"Acaciella angustissima var. angustissima",,,134642
+FABACEAE,"Acmispon brachycarpus","(Benth.) D.D.Sokoloff",,134710
+FABACEAE,"Acmispon strigosus","(Nutt.) Brouillet",,171184
+FABACEAE,"Astragalus allochrous","A. Gray",,4061
+FABACEAE,"Astragalus allochrous var. playanus",Isely,,5863
+FABACEAE,"Astragalus nuttallianus",DC.,,4150
+FABACEAE,"Astragalus nuttallianus var. austrinus","(Small) Barneby",,12283
+FABACEAE,"Astragalus nuttallianus var. imperfectus","(Rydb.) Barneby",,12284
+FABACEAE,"Caesalpinia gilliesii","(Hook.) Wallich ex D. Dietr.",,1515
+FABACEAE,"Calliandra eriophylla",Benth.,,1233
+FABACEAE,"Dalea neomexicana","(A. Gray) Cory",,1557
+FABACEAE,"Lotus humistratus",Greene,,1658
+FABACEAE,"Lotus strigosus","(Nutt.) Greene",,1569
+FABACEAE,"Lotus strigosus var. tomentellus","(Greene) Isely",,13347
+FABACEAE,"Lupinus concinnus","J.G. Agardh",,2585
+FABACEAE,"Lupinus concinnus subsp. orcuttii","(S. Wats.) D. Dunn",,11562
+FABACEAE,"Lupinus sparsiflorus",Benth.,,1757
+FABACEAE,"Lupinus sparsiflorus subsp. mohavensis","Dziekanowski & D. B. Dunn",,11572
+FABACEAE,"Marina parryi","(Torr. & A. Gray) Barneby",,1457
+FABACEAE,"Medicago polymorpha",L.,,188
+FABACEAE,"Nissolia schottii","(Torr.) A. Gray",,1409
+FABACEAE,"Parkinsonia aculeata",L.,,1411
+FABACEAE,"Parkinsonia florida","(Benth. ex A. Gray) S. Watson",,1412
+FABACEAE,"Parkinsonia microphylla",Torr.,,1413
+FABACEAE,"Prosopis juliflora","(Sw.) DC.",,615
+FABACEAE,"Prosopis juliflora var. velutina","(Wooton) Sarg.",,13888
+FABACEAE,"Senna covesii","(A. Gray) Irwin & Barneby",,667
+FABACEAE,"Sphinctospermum constrictum","(S. Wats.) Rose",,560
+FABACEAE,"Vachellia pennatula","(Schltdl. & Cham.) Seigler & Ebinger ",,134938
+FABACEAE,"Vicia ludoviciana",Nutt.,,1644
+FABACEAE,"Vicia ludoviciana subsp. ludoviciana",,,11926
+FABACEAE,"Vicia ludoviciana var. ludoviciana",,,69056
+FOUQUIERIACEAE,"Fouquieria columnaris","Kellogg ex Curran",,27351
+FOUQUIERIACEAE,"Fouquieria splendens",Engelm.,,3040
+FOUQUIERIACEAE,"Fouquieria splendens subsp. splendens",Engelm.,,32052
+GERANIACEAE,"Erodium cicutarium","(L.) L'Hér. ex Aiton",,2710
+GERANIACEAE,"Erodium texanum","A. Gray",,2705
+KRAMERIACEAE,"Krameria grayi","Rose & Painter",,1447
+LAMIACEAE,"Hyptis emoryi",Torr.,,884
+LAMIACEAE,"Molucella laevis",L.,,184695
+LAMIACEAE,"Salvia columbariae",Benth.,,850
+LAMIACEAE,"Tetraclea coulteri","A. Gray",,987
+LAMIACEAE,"Teucrium cubense",Jacq.,,980
+LAMIACEAE,"Teucrium cubense var. densum",Jepson,,14246
+LILIACEAE,"Calochortus kennedyi",Porter,,3510
+LINACEAE,"Linum lewisii",Pursh,,2466
+LOASACEAE,"Mentzelia affinis",Greene,,2506
+LOASACEAE,"Mentzelia albicaulis","(Dougl.) Dougl. ex Torr. & A. Gray",,2507
+MALPIGHIACEAE,"Cottsia gracilis","(A. Gray) W.R. Anderson ",,134809
+MALVACEAE,"Abutilon incanum","(Link) Sweet",,3677
+MALVACEAE,"Anoda pentaschista","A. Gray",,3681
+MALVACEAE,"Ayenia filiformis","S. Watson",,3622
+MALVACEAE,"Ayenia microphylla","A. Gray",,3628
+MALVACEAE,"Herissantia crispa","(L.) Briz.",,3773
+MALVACEAE,"Hibiscus coulteri","Harvey ex A. Gray",,3654
+MALVACEAE,"Hibiscus denudatus",Benth.,,3655
+MALVACEAE,"Malva parviflora",L.,,3778
+MALVACEAE,"Sida abutifolia",Mill.,,606
+MALVACEAE,"Sphaeralcea ambigua","A. Gray",,3800
+MALVACEAE,"Sphaeralcea angustifolia","(Cav.) G. Don",,3801
+MALVACEAE,"Sphaeralcea coulteri","(S. Watson) A. Gray",,3803
+MALVACEAE,"Sphaeralcea emoryi","Torr. ex A. Gray",,3805
+MALVACEAE,"Sphaeralcea laxa","Woot. & Standl.",,3809
+MARTYNIACEAE,"Proboscidea althaeifolia","(Benth.) Decne.",,1502
+MARTYNIACEAE,"Proboscidea parviflora","(Wooton) Wooton & Standl.",,1487
+MELIACEAE,"Melia azedarach",L.,,2661
+MONTIACEAE,"Cistanthe monandra","(Nutt.) Hershkovitz",,1099
+MONTIACEAE,"Phemeranthus aurantiacus","(Engelm.) Kiger",,16355
+NEMACLADACEAE,"Nemacladus glanduliferus",Jepson,,2602
+NYCTAGINACEAE,"Allionia incarnata",L.,,3305
+NYCTAGINACEAE,"Allionia incarnata var. villosa","(Standl.) B.L. Turner",,12043
+NYCTAGINACEAE,"Boerhavia coccinea","P. Mill.",,1258
+NYCTAGINACEAE,"Boerhavia coulteri","(Hook. f.) S. Wats.",,3352
+NYCTAGINACEAE,"Boerhavia intermedia","M.E. Jones",,3343
+NYCTAGINACEAE,"Boerhavia megaptera",Standl.,,3344
+NYCTAGINACEAE,"Boerhavia scandens",L.,,1259
+NYCTAGINACEAE,"Boerhavia spicata",Choisy,,3347
+NYCTAGINACEAE,"Boerhavia wrightii","A. Gray",,3353
+OLEACEAE,"Menodora scabra","A. Gray",,683
+ONAGRACEAE,"Camissonia californica","(Nutt. ex Torr. & A. Gray) Raven",,365
+ONAGRACEAE,"Camissonia chamaenerioides","(A. Gray) Raven",,368
+ONAGRACEAE,"Chylismia claviformis","(Torr. & Frém.) A. Heller ",,134801
+ONAGRACEAE,"Chylismia claviformis subsp. peeblesii","(Munz) W.L. Wagner & Hoch",,134802
+ONAGRACEAE,"Oenothera cespitosa",Nutt.,,8513
+ONAGRACEAE,"Oenothera cespitosa subsp. marginata","(Nutt. ex Hook. & Arn.) Munz [orthographic variant]",,11621
+ONAGRACEAE,"Oenothera primiveris","A. Gray",,485
+ONAGRACEAE,"Oenothera primiveris subsp. primiveris","A. Gray",,11645
+OROBANCHACEAE,"Castilleja exserta","(Heller) Chuang & Heckard",,3652
+OROBANCHACEAE,"Castilleja exserta subsp. exserta",,,11233
+OROBANCHACEAE,"Orobanche cooperi","(A. Gray) Heller",,2523
+OROBANCHACEAE,"Orobanche cooperi subsp. cooperi",,,11656
+PAPAVERACEAE,"Argemone gracilenta",Greene,,455
+PAPAVERACEAE,"Corydalis aurea",Willd.,,475
+PAPAVERACEAE,"Eschscholzia californica",Cham.,,466
+PAPAVERACEAE,"Eschscholzia californica subsp. mexicana","(Greene) C. Clark",,11429
+PLANTAGINACEAE,"Maurandya antirrhiniflora","Humb. & Bonpl. ex Willd.",,9840
+PLANTAGINACEAE,"Penstemon parryi","(A. Gray) A. Gray",,3226
+PLANTAGINACEAE,"Plantago ovata",Forssk.,,1597
+PLANTAGINACEAE,"Plantago patagonica",Jacq.,,764
+PLANTAGINACEAE,"Plantago rhodosperma",Decne.,,765
+POACEAE,"Aristida adscensionis",L.,,697
+POACEAE,"Aristida purpurea",Nutt.,,694
+POACEAE,"Aristida purpurea var. longiseta","(Steud.) Vasey",,12159
+POACEAE,"Aristida purpurea var. nealleyi","(Vasey) Allred",,12161
+POACEAE,"Aristida purpurea var. parishii","(A.S. Hitchc.) Allred",,12163
+POACEAE,"Aristida schiedeana","Trin. & Rupr.",,2875
+POACEAE,"Aristida ternipes",Cav.,,695
+POACEAE,"Aristida ternipes var. gentilis","(Henr.) Allred",,12175
+POACEAE,"Aristida ternipes var. ternipes",,,12178
+POACEAE,"Avena fatua",L.,,704
+POACEAE,"Bothriochloa barbinodis","(Lag.) Herter",,709
+POACEAE,"Bouteloua aristidoides","(Kunth) Griseb.",,714
+POACEAE,"Bouteloua barbata",Lag.,,715
+POACEAE,"Bouteloua barbata var. barbata",Lag.,,31434
+POACEAE,"Bouteloua barbata var. rothrockii","(Vasey) Gould",,9455
+POACEAE,"Bouteloua curtipendula","(Michx.) Torr.",,635
+POACEAE,"Bouteloua repens","(Kunth) Scribn. & Merr.",,640
+POACEAE,"Bouteloua trifida",Thurb.,,642
+POACEAE,"Bromus arizonicus","(Shear) Stebbins",,1818
+POACEAE,"Bromus catharticus",Vahl,,1275
+POACEAE,"Bromus rubens",L.,,1753
+POACEAE,"Bromus tectorum",L.,,1749
+POACEAE,"Chloris virgata",Sw.,,649
+POACEAE,"Cortaderia selloana","(Schult. & Schult. f.) Asch. & Graebn.",,657
+POACEAE,"Cottea pappophoroides",Kunth,,597
+POACEAE,"Cynodon dactylon","(L.) Pers.",,593
+POACEAE,"Dasyochloa pulchella","(Kunth) Willd. ex Rydb.",,4136
+POACEAE,"Digitaria californica","(Benth.) Henr.",,1687
+POACEAE,"Dinebra panicea","(Retz.) P. M. Peterson & N. Snow",,168541
+POACEAE,"Dinebra panicea subsp. mucronata","(Michx.) P. M. Peterson & N. Snow",,189717
+POACEAE,"Disakisperma dubium","(Kunth) P.M. Peterson & N.Snow",,170872
+POACEAE,"Echinochloa colona","(L.) Link",,1713
+POACEAE,"Elymus elymoides","(Raf.) Swezey",,2924
+POACEAE,"Enneapogon desvauxii","Desv. ex Beauv.",,535
+POACEAE,"Eragrostis barrelieri",Daveau,,1642
+POACEAE,"Eragrostis cilianensis","(All.) Vignolo ex Janch.",,1630
+POACEAE,"Eragrostis echinochloidea",Stapf,,2955
+POACEAE,"Eragrostis lehmanniana",Nees,,777
+POACEAE,"Eragrostis pectinacea","(Michx.) Nees ex Steud.",,1627
+POACEAE,"Eriochloa acuminata","(J. Presl) Kunth",,2992
+POACEAE,"Eriochloa acuminata var. acuminata",,,12876
+POACEAE,"Heteropogon contortus","(L.) Beauv. ex Roemer & J.A. Schultes",,551
+POACEAE,"Hilaria belangeri","(Steud.) Nash",,553
+POACEAE,"Hilaria mutica","(Buckley) Benth.",,8506
+POACEAE,"Hordeum murinum",L.,,1594
+POACEAE,"Hordeum murinum subsp. glaucum","(Steud.) Tzvelev",,11500
+POACEAE,"Hordeum pusillum",Nutt.,,1580
+POACEAE,"Leptochloa filiformis","(Lam.) Beauv.",,15394
+POACEAE,"Leptochloa fusca","(L.) Kunth",,624
+POACEAE,"Leptochloa fusca subsp. fascicularis","(Lam.) N. Snow",,11523
+POACEAE,"Muhlenbergia microsperma","(DC.) Trin.",,356
+POACEAE,"Muhlenbergia porteri","Scribn. ex Beal",,408
+POACEAE,"Panicum hirticaule","J. Presl",,1610
+POACEAE,"Pappophorum vaginatum",Buckl.,,311
+POACEAE,"Pennisetum ciliare","(L.) Link",,1680
+POACEAE,"Pennisetum setaceum","(Forssk.) Chiov.",,3190
+POACEAE,"Phalaris minor",Retz.,,756
+POACEAE,"Phragmites australis","(Cav.) Trin. ex Steud.",,865
+POACEAE,"Pleuraphis mutica",Buckley,,2155
+POACEAE,"Poa bigelovii","Vasey & Scribn.",,833
+POACEAE,"Polypogon monspeliensis","(L.) Desf.",,840
+POACEAE,"Schismus arabicus",Nees,,3193
+POACEAE,"Schismus barbatus","(Loefl. ex L.) Thellung",,3194
+POACEAE,"Setaria leucopila","(Scribn. & Merr.) K. Schum.",,804
+POACEAE,"Setaria liebmannii",Fourn.,,805
+POACEAE,"Sorghum halepense","(L.) Pers.",,3209
+POACEAE,"Sporobolus airoides","(Torr.) Torr.",,3212
+POACEAE,"Sporobolus contractus","A.S. Hitchc.",,3213
+POACEAE,"Sporobolus cryptandrus","(Torr.) A. Gray",,3214
+POACEAE,"Sporobolus wrightii","Munro ex Scribn.",,436
+POACEAE,"Tridentopsis mutica","(Torr.) P.M. Peterson",,190101
+POACEAE,"Trisetum interruptum",Buckl.,,751
+POACEAE,"Urochloa arizonica","(Scribn. & Merr.) O. Morrone & F. Zuloaga",,459
+POACEAE,"Vulpia octoflora","(Walter) Rydb.",,3257
+POACEAE,"Vulpia octoflora var. hirtella","(Piper) Henr.",,14366
+POLEMONIACEAE,"Eriastrum diffusum","(A. Gray) Mason",,2197
+POLEMONIACEAE,"Gilia flavocincta","A. Nels.",,2125
+POLEMONIACEAE,"Gilia flavocincta subsp. australis","(A.& V. Grant) Day & V. Grant",,11464
+POLEMONIACEAE,"Gilia stellata",Heller,,214
+POLEMONIACEAE,"Linanthus bigelovii","(A. Gray) Greene",,2060
+POLEMONIACEAE,"Linanthus dichotomus",Benth.,,2108
+POLYGONACEAE,"Chorizanthe brevicornu",Torr.,,3430
+POLYGONACEAE,"Chorizanthe brevicornu var. brevicornu",Torrey,,12491
+POLYGONACEAE,"Chorizanthe rigida","(Torr.) Torr. & A. Gray",,3426
+POLYGONACEAE,"Eriogonum abertianum",Torr.,,3438
+POLYGONACEAE,"Eriogonum deflexum",Torr.,,3469
+POLYGONACEAE,"Eriogonum deflexum var. deflexum",Torr.,,12909
+POLYGONACEAE,"Eriogonum maculatum",Heller,,3492
+POLYGONACEAE,"Eriogonum palmerianum",Reveal,,2985
+POLYGONACEAE,"Eriogonum polycladon",Benth.,,3523
+POLYGONACEAE,"Eriogonum thurberi",Torr.,,3533
+POLYGONACEAE,"Eriogonum trichopes",Torr.,,3534
+PRIMULACEAE,"Androsace occidentalis",Pursh,,921
+PTERIDACEAE,"Astrolepis cochisensis","(Goodding) Benham & Windham",,2022
+PTERIDACEAE,"Cheilanthes lindheimeri",Hook.,,1868
+PTERIDACEAE,"Cheilanthes wootonii",Maxon,,1859
+PTERIDACEAE,"Cheilanthes wrightii",Hook.,,1860
+PTERIDACEAE,"Notholaena standleyi",Maxon,,1744
+PTERIDACEAE,"Pellaea truncata",Goodding,,1677
+RANUNCULACEAE,"Anemone tuberosa",Rydb.,,741
+RANUNCULACEAE,"Clematis drummondii","Torr. & A. Gray",,252
+RANUNCULACEAE,"Delphinium parishii","A. Gray",,750
+RANUNCULACEAE,"Delphinium parishii subsp. parishii",,,11354
+RANUNCULACEAE,"Delphinium scaposum",Greene,,773
+RESEDACEAE,"Oligomeris linifolia","(Vahl) J.F. Macbr.",,1816
+RHAMNACEAE,"Condalia warnockii","M.C. Johnston",,3547
+RHAMNACEAE,"Condalia warnockii var. kearneyana","M.C. Johnston",,12635
+RUBIACEAE,"Galium proliferum","A. Gray",,2649
+RUBIACEAE,"Galium stellatum",Kellogg,,2650
+RUTACEAE,"Thamnosma texana","(A. Gray) Torr.",,2659
+RUTACEAE,"Thamnosma texanum","(A. Gray) Torr.",,31663
+RUTACEAE,"Thamnosma texanum var. purpureum","Woodruff ",,134936
+SANTALACEAE,"Phoradendron californicum",Nutt.,,164
+SIMMONDSIACEAE,"Simmondsia chinensis","(Link) Schneid.",,3313
+SOLANACEAE,"Datura discolor",Bernh.,,3869
+SOLANACEAE,"Lycium berlandieri",Dunal,,3874
+SOLANACEAE,"Lycium berlandieri var. longistylum","C.L. Hitchc.",,13393
+SOLANACEAE,"Lycium exsertum","A. Gray",,3877
+SOLANACEAE,"Lycium fremontii","A. Gray",,3878
+SOLANACEAE,"Nicotiana glauca",Graham,,3890
+SOLANACEAE,"Nicotiana obtusifolia","M. Martens & Galeotti",,1283
+SOLANACEAE,"Physalis acutifolia","(Miers) Sandw.",,3883
+SOLANACEAE,"Physalis angulata",L.,,3884
+SOLANACEAE,"Physalis crassifolia",Benth.,,3886
+SOLANACEAE,"Quincula lobata","(Torr.) Raf.",,1455
+SOLANACEAE,"Solanum elaeagnifolium",Cav.,,3833
+TAMARICACEAE,"Tamarix chinensis",Lour.,,2354
+TYPHACEAE,"Typha domingensis",Pers.,,3281
+URTICACEAE,"Parietaria hespera",Hinton,,3182
+URTICACEAE,"Parietaria hespera var. hespera",,,13637
+VERBENACEAE,"Aloysia wrightii","Heller ex Abrams",,1051
+VERBENACEAE,"Glandularia bipinnatifida","(Nutt.) Nutt.",,3093
+VERBENACEAE,"Glandularia gooddingii","(Briq.) Solbrig",,3096
+VERBENACEAE,"Glandularia wrightii","(A. Gray) Umber",,3097
+VERBENACEAE,"Lantana camara",L.,,1057
+VERBENACEAE,"Lantana horrida",Kunth,,7807
+VIBURNACEAE,"Sambucus nigra",L.,,1428
+VIBURNACEAE,"Sambucus nigra subsp. canadensis","(L.) R. Bolli",,11838
+ZYGOPHYLLACEAE,"Kallstroemia californica","(S. Watson) Vail",,2675
+ZYGOPHYLLACEAE,"Kallstroemia grandiflora","Torr. ex A. Gray",,2676
+ZYGOPHYLLACEAE,"Larrea tridentata","(Sessé & Moc. ex DC.) Coville",,2671
+ZYGOPHYLLACEAE,"Larrea tridentata var. tridentata",,,13270
+ZYGOPHYLLACEAE,"Tribulus terrestris",L.,,2674
